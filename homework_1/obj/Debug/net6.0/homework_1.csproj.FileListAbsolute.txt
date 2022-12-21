@@ -1,0 +1,15 @@
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/bin/Debug/net6.0/homework_1
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/bin/Debug/net6.0/homework_1.deps.json
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/bin/Debug/net6.0/homework_1.runtimeconfig.json
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/bin/Debug/net6.0/homework_1.dll
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/bin/Debug/net6.0/homework_1.pdb
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.csproj.AssemblyReference.cache
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.AssemblyInfoInputs.cache
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.AssemblyInfo.cs
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.csproj.CoreCompileInputs.cache
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.dll
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/refint/homework_1.dll
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.pdb
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/homework_1.genruntimeconfig.cache
+/Users/novikk-mac/Documents/тестировщик/homework_3/homework_1/obj/Debug/net6.0/ref/homework_1.dll
