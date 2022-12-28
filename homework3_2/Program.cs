@@ -29,5 +29,5 @@ int y2 = GetUserValue("введите y2");
 int z2 = GetUserValue("введите z2");
 
 double distance = GetDistance(x1, y1, z1, x2, y2, z2);
-Console.WriteLine($"расстояние между точками в 3D пространстве {distance}");
+Console.WriteLine($"расстояние между точками в 3D пространстве: {Math.Round(distance,2)}");
 
