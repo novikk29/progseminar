@@ -13,6 +13,12 @@ Console.WriteLine("Введите число: ");
 int n = int.Parse(Console.ReadLine());
 for (int i = 1; i <= n; i++)
 {
-    int result = i * i * i;
-    Console.WriteLine(result);
+   if (i<n)
+   {
+    Console.Write(Math.Pow(i,3) + ", ");
+   }
+   else
+   {
+    Console.Write(Math.Pow(i,3) + " ");
+   }    
 }
