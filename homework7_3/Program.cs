@@ -54,6 +54,7 @@ void print2DArray(int[,] array)
 double Sum(int[,] array)
 { 
     double result = 0;
+    Console.Write($"среднее арифметическое каждого столбца: ");
     for (int j = 0; j < array.GetLength(1); j++)
     {
         double sum = 0; 
@@ -70,8 +71,8 @@ int n = getIntFromUser("введите количество строк масс�
 int m = getIntFromUser("введите количество столбцов массива:");
 int[,] array = get2DArray(n, m, 0, 10);
 print2DArray (array);
-Console.WriteLine("-----------------------------------");
+Console.WriteLine("-------------------------------------------------------------");
 double result =  Sum(array);
 Console.WriteLine();
-Console.WriteLine("-----------------------------------"); 
+Console.WriteLine("-------------------------------------------------------------"); 
 
