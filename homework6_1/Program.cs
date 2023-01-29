@@ -17,7 +17,7 @@ int countPositiveNumber(int m)
 
     while(k < m)
     {
-        Console.Write("");
+        Console.Write("введите число: ");
         int b = int.Parse(Console.ReadLine());
         if(b > 0)
         {
@@ -31,7 +31,6 @@ int countPositiveNumber(int m)
     }
     return count;   
 }
- 
-int number = getIntFromUser("введите число m");
+ int number = getIntFromUser("введите число m");
 int count = countPositiveNumber(number);
 Console.WriteLine($"из введённых {number} чисел, положительных {count}");
